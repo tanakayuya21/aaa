@@ -8,4 +8,5 @@ type UserBalance struct {
     Name   string
     Balance int
     Age int
+    ID int
 }
