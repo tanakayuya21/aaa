@@ -7,5 +7,6 @@ type UserBalance struct {
     gorm.Model
     Name   string
     Balance int
-    Age  int
+    Age int
+    ID int
 }
